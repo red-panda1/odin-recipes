@@ -1,0 +1,47 @@
+#title {
+    text-align:center;
+    color: rgba(201, 201, 201, 0.9);
+    background-color: black;
+    font-family: serif, 'Times New Roman', Times;
+}
+
+#three-guys {
+    width: 60%;
+  margin: auto;
+  display: block;
+}
+
+#index-descr {
+    color: rgba(1, 1, 24, 0.897);
+    text-align:center;
+}
+
+
+* {
+    font-family:serif, 'Times New Roman', Times;
+}
+
+.button-set {
+    color:blue;
+    text-align:center;
+}
+
+.font-button {
+    font-size:20px;
+}
+
+.recipe-title {
+    color:rgba(0, 1, 22, 0.836);
+}
+
+.story-style {
+    color:rgba(71, 57, 14, 0.877);
+}
+
+.ingredients-style {
+    color:rgba(12, 51, 54, 0.774);
+}
+
+.steps-style {
+    color:rgb(23, 12, 65);
+}
