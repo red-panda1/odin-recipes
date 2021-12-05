@@ -5,3 +5,5 @@ Working with HTML
 -HTML Links and Images
 -HTML Tags
 -HTML Text
+
+Credits:Images from Wikipedia
